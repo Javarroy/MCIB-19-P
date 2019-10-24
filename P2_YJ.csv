@@ -1,0 +1,19 @@
+actividad,descripción,ARROYO MARTINEZ FRANCISCO JAVIER,CASTREJON MEJIA ESTEFANI YAZMIN,comment YJ
+Actividad 1,Desarrollar una función que calcule la FFT aplicando por lo menos tres ventanas de tal forma que se pueda evaluar cual ventana permite visualizar de mejor manera al espectro,3,3,(vacío)
+,"Desarrollar una función que estime el PSD con el algoritmo de Welch, siendo sus entradas: señal, longitud de las épocas, y porcentaje de traslape",3,3,(vacío)
+,Desarrollar una función que permita evaluar la respuesta en frecuencia de un filtro,2,2,da la frecuencia normalizada; no en función de la frecuencia de muestreo
+,"Implementar una función elimine la tendencia lineal móvil, asumiendo un 50 % de traslape de épocas de N muestras, y utilizando el método de la pseudo-inversa",3,3,(vacío)
+,"Implementar una función que evalúe un filtro de media móvil, para épocas de N muestras con p porcentaje de traslape",1,1,"implementada, pero no probada"
+Actividad 2,Estimar el espectro para cada una de las señales adquiridas en la Práctica 0 ¿Los espectros de un mismo tipo de señal son parecidos a pesar de haber sido adquiridos en diferentes sesiones?,1,1,no se hicieron comentarios al respecto
+,Evalúe que caso preserva más la morfología de la señal: eliminar tendencia→filtrado vs filtrado→eliminar tendencia,0,0,no se realizó
+,Implementar un esquema de filtrado que mejor se adapte a cada tipo de señal. a) Evaluar la respuesta en frecuencia de los filtros. b) Comparar la señal filtrada respecto a la original,1.5,1.5,no se hicieron comentarios al respecto
+,"Seleccione los registros que requieran que se elimine la tendencia lineal, y elimínela con la función que diseño.",3,3,(vacío)
+Entregables,Análisis de las decisiones tomadas para la elección de los diferentes esquemas de filtrado,1,1,faltó detallar
+,Bitácora,9.5,9.5,(vacío)
+,Código en github: se requieren de al menos 10 commits con versiones funcionales en cada caso,3,3,(vacío)
+,Discusión de los hallazgos relacionados a la estimación del contenido espectral de sus señales,3,3,(vacío)
+,,,,
+,Puntos,24.5,24.5,
+,De,39,39,
+,Calificación Practica,6.28205128205128,6.28205128205128,
+,Bitácora,9.5,9.5,
